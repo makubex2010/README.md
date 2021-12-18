@@ -1,4 +1,3 @@
-# README.md
 Hi there 👋
 
 ● I am a freelancer, currently learning python
@@ -15,3 +14,4 @@ This is a happy group of games that occasionally hits and chats with Hara. It ne
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makubex2010)](https://github.com/makubex2010/github-readme-stats)
 # Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makubex2010)](https://github.com/makubex2010/github-readme-stats)
+
