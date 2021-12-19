@@ -4,8 +4,6 @@
 
 - Welcome all PlayStation console players to join the fun and rational communication here.
 
-This is a happy group of games that occasionally hits and chats with Hara. It needs their efforts and exchange information together!
-
 [Telegram Group](https://t.me/PlayStation4Tw)
 
 [Telegram](https://t.me/Kevin_RX)
