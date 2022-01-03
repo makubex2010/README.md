@@ -4,7 +4,7 @@
 
 - Welcome all PlayStation console players to join the fun and rational communication here.
 
-[Telegram Group](https://t.me/PlayStation4Tw)
+[Telegram Group](https://t.me/PlayStationTw)
 
 [Telegram](https://t.me/Kevin_RX)
 
