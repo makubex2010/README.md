@@ -9,6 +9,6 @@
 [Telegram](https://t.me/Kevin_RX)
 
 ### Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makubex2010)](https://github.com/makubex2010/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makubex2010&show_icons=true&theme=chartreuse-dark)](https://github.com/makubex2010/github-readme-stats)
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makubex2010)](https://github.com/makubex2010/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makubex2010&show_icons=true&theme=chartreuse-dark)](https://github.com/makubex2010/github-readme-stats)
