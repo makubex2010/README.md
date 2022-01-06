@@ -9,9 +9,9 @@
 [Telegram](https://t.me/Kevin_RX)
 
 ### Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makubex2010&show_icons=true&theme=chartreuse-dark)](https://github.com/makubex2010/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makubex2010&show_icons=true&theme=chartreuse-dark)](https://github.com/makubex2010)
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makubex2010&show_icons=true&theme=chartreuse-dark)](https://github.com/makubex2010/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makubex2010&show_icons=true&theme=chartreuse-dark)](https://github.com/makubex2010)
 ### Repo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=makubex2010&repo=SongPlayRoBot&show_icons=true&theme=chartreuse-dark)](https://github.com/makubex2010/SongPlayRoBot)
 
