@@ -21,4 +21,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=makubex2010&repo=rss-bot-template&show_icons=true&theme=chartreuse-dark)](https://github.com/makubex2010/rss-bot-template)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=makubex2010&repo=rss-bot-template&show_icons=true&theme=chartreuse-dark)](https://github.com/makubex4000/BA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=makubex4000&repo=BA&show_icons=true&theme=chartreuse-dark)](https://github.com/makubex4000/BA)
