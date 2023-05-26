@@ -8,8 +8,6 @@
 
 [Telegram](https://t.me/Kevin_RX)
 
-[Bahamut-Automation](https://github.com/makubex4000/BA)
-
 ### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makubex2010&show_icons=true&theme=chartreuse-dark)](https://github.com/makubex2010)
 ### Top Languages
